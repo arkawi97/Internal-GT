@@ -38,9 +38,9 @@
 # 
 
 ### Using the injector
-* Keep INZERNAL.dll in the same directory
-* F1 will inject INZERNAL to Growtopia
-* F3 will uninject INZERNAL and restore everything (Built into INZERNAL)
+* Keep Internal.dll in the same directory
+* F1 will inject Internal to Growtopia
+* F3 will uninject Internal and restore everything (Built into Internal)
 * F4 will quit injector
 * Requires admin permissions due to growtopia changing token permissions
 * Also should work with any other injector of your choice
@@ -49,8 +49,8 @@
 
 ### Using the patcher
 * Drag any unpatched Growtopia file into patcher
-* Put INZERNAL.dll into same directory as Growtopia
-* When you launch Growtopia, INZERNAL.dll is automatically loaded
+* Put Internal into same directory as Growtopia
+* When you launch Growtopia, Internal is automatically loaded
 * Does not require admin perms like injector
 * **You can use injector with patched file too**
 
@@ -60,7 +60,7 @@
 * Some patterns might be outdated for some versions
 * For now going to stick to **V3.51** with spoofing to latest version
 * Verified working Growtopia versions are
-  * V3.51 (Recommended version)
+  * V3.77 (Recommended version)
 
 # 
 
@@ -74,7 +74,7 @@
 1. Set build to Debug x64
 1. Rebuild to be sure everything is correct
 1. Inject debug dll to Growtopia
-1. INZERNAL will disable Growtopia's token protection automatically, so admin will not be needed for debugging
+1. Internal will disable Growtopia's token protection automatically, so admin will not be needed for debugging
 1. On visual studio go to  Debug -> Attach to Process -> Find Growtopia
 1. All done, it should be attached. If it asks for admin perms then you did not inject the dll properly.
 * Now you can set breakpoints and trace, etc.
