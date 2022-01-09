@@ -14,8 +14,10 @@
 * Autofarm
 
 #### Screenshots
-![Cheats](https://i.imgur.com/yh8QNUT.png)
-![Framework](https://i.imgur.com/P3oPaJQ.png)
+![Spoof](https://github.com/arkawi97/zxd/blob/main/Capture1.PNG)
+![Auto Farm](https://github.com/arkawi97/zxd/blob/main/Capture2.PNG)
+![Cheat](https://github.com/arkawi97/zxd/blob/main/Capture3.PNG)
+![Frameworks](https://github.com/arkawi97/zxd/blob/main/Capture4.PNG)
 
 # 
 
