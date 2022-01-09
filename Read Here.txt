@@ -1,2 +1,0 @@
-1. Put Internal.dll at same growtopia folder Example (C:\Users\bhell\AppData\Local\Growtopia
-2. open injector and Automaticaly inject
