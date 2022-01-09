@@ -10,9 +10,6 @@
 
 # Modified By RHSoft/Me: https://github.com/arkawi97
 
-# Added Feature
-* Autofarm
-
 #### Screenshots
 ![Spoof](https://github.com/arkawi97/zxd/blob/main/Capture1.PNG)
 ![Auto Farm](https://github.com/arkawi97/zxd/blob/main/Capture2.PNG)
